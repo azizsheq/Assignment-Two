@@ -25,6 +25,9 @@
 .highlight-deep-blue{
     color: #363958;
 }
+#sec-three-div img{
+    display:inline-block;
+}
 #product-title{
     color: #363958;
     font-weight: 700;
@@ -37,6 +40,9 @@
     size: 48px;
     font-family: 'Bebas Neue';
     letter-spacing: 2px;
+}
+.section-custom{
+    margin-top: 50px;
 }
 .price-tag-font{
     color: #76C27E;
