@@ -1,0 +1,45 @@
+#custom-header{
+    background-color: #FFFFF4;
+}
+#custom-product{
+    background-color: #F1F1F1;
+    border-radius: 0.5em;
+    padding: 0.5em;
+}
+.custom-card{
+    border-radius: 1em;
+    border: none;
+}
+.custom-btn{
+    background-color: #2A1E59;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 0.5em;
+    height: 60px;
+    width: 170px;
+}
+.highlight-green{
+    color: #76C27E;
+}
+.highlight-deep-blue{
+    color: #363958;
+}
+#product-title{
+    color: #363958;
+    font-weight: 700;
+    size: 24px;
+    font-family: 'Roboto', sans-serif;
+}
+#section-head{
+    color: #363958;
+    font-weight: 600;
+    size: 48px;
+    font-family: 'Bebas Neue';
+    letter-spacing: 2px;
+}
+.price-tag-font{
+    color: #76C27E;
+    font-weight: 700;
+    font-size: 40px;
+}
